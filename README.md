@@ -4,4 +4,6 @@
 
 git clone 
 
-chmod +x 777 
+chmod +x 777 install-nethunter-termux
+
+./install-nethunter-termux
